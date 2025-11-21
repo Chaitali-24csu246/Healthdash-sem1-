@@ -1,4 +1,4 @@
-#HealthDash – Personal Wellness Tracker (C Project)
+# HealthDash – Personal Wellness Tracker (C Project)
 
 HealthDash is a menu-driven health and fitness tracking system built entirely in C.
 It was originally created as part of a First Semester Internal Hackathon (University Hackathon) and has since been slightly improved with a cleaned-up version.
