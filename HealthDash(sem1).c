@@ -7,9 +7,7 @@
 
 // Main submenu functions
 void mng_record(char *username);  // Manage Records (Add, Delete, View)
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+
 
 // Function to display the contents of a file
 void display_file_content(const char *filename) {
@@ -588,3 +586,4 @@ void view_reminders(char *username) {
 
    fclose(file);
 }
+
